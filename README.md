@@ -90,4 +90,3 @@ Hello! I'm **Arfa Arfan**, a dedicated and creative freelancer passionate about 
 *Thank you for visiting my portfolio!*
 ```
 
-Yeh README.md file updated information ke saath tayyar hai. Isko aap directly use kar sakte hain ya koi aur changes chahiye hon to bataiye!
